@@ -1,0 +1,52 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ],
+    [
+      "Society",
+      "Global Poverty"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "f9464d08-a0b1-17f7-e3b4-b26a56deee48",
+  "instructors": {
+    "content": [
+      "8f20c0f0-b4cf-cb43-26a1-5cc7c3df808f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e6c21dc5-cac0-f39d-72ea-a556521cb649",
+    "website": "sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018"
+  },
+  "course_title": "Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises",
+  "course_description": "With increasing public awareness of the multiple effects of global environmental change, the terms water, energy, and food crisis have become widely used in scientific and political debates on sustainable development and environmental policy. Although each of these crises has distinct drivers and consequences, providing sustainable supplies of water, energy, and food are deeply interrelated challenges and require a profound understanding of the political, socioeconomic, and cultural factors that have historically shaped these interrelations at a local and global scale.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.032",
+  "course_image_thumbnail": {
+    "content": "92804804-46a5-5f97-34e8-ac4080f05281",
+    "website": "sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018"
+  },
+  "learning_resource_types": [
+    "Written Assignments",
+    "Projects"
+  ],
+  "site_uid": "92fd7d02-6f8b-47cc-a556-c1007c135178",
+  "site_short_id": "sts.032-spring-2018",
+  "site_url_path": "courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018",
+  "title": "Course Metadata"
+}
