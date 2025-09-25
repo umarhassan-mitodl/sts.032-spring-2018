@@ -1,0 +1,22 @@
+leftnav:
+- identifier: db15987e-3ec0-b30c-4d4e-dbe91581419c
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ba8c1996-d7ee-cc27-d21f-b61fd4f956e2
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 7d7428f7-d97a-ded6-4eb5-4702aad44388
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 063c38bc-32f6-4a8c-f40d-7c97da289b52
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 70e5a6b6-5130-6f26-eaae-7079bd7cc2e9
+  name: Writing Tips
+  pageRef: /pages/assignments/writing-tips
+  parent: 063c38bc-32f6-4a8c-f40d-7c97da289b52
+  weight: 50
