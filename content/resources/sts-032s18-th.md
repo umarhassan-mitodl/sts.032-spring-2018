@@ -4,6 +4,8 @@ description: ''
 file: /courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/9280480446a55f9734e8ac4080f05281_sts-032s18-th.jpeg
 file_size: 6911
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Salar de Uyuni, Bolivia. The world's biggest single deposit of lithium
     in one of the driest regions in Latin America. Lithium-ion batteries are critical
